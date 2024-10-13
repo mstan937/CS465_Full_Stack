@@ -22,7 +22,7 @@ const travel = async function name(req,res,next) {
     .catch(err => res.status(500).send(err.message));
     //console.log('TRAVEL CONTROLLER AFTER RENDER');
     };
-function (req, res) {
+function tripsData(req, res) {
   // Fetch the trips data from the API endpoint
   fetch(tripsEndpoint, options)
     .then(res => {
