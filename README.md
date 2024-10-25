@@ -11,4 +11,4 @@ Testing a full stack application requires thorough examination of both API reque
 Reflection
 This course has significantly advanced my professional goals by deepening my understanding of full stack development. I gained hands-on experience with MongoDB, Express, and frontend technologies, as well as learned best practices for API testing and security. These skills are critical in making me a more competitive candidate in the field of software engineering, particularly for roles focused on developing scalable, efficient, and secure applications. Additionally, the ability to refactor code and develop reusable components has enhanced my ability to deliver maintainable solutions, which is highly valued in the industry.
 
-This structure ensures you address each section clearly while also tying your experiences and insights together cohesively.
+
